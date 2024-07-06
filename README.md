@@ -1,9 +1,16 @@
 
 # Rev App
 
-An android application that fetches all your photos from Google Drive and diplay them in random fashion.This Application is fully customizable with feature to block and unblock folders and user can also view photos folder wise. Application has a dedicated favourite section along with recent section in which photos are shown in decending order of their seen count.
+Introducing PicBlend, an innovative Android application designed to transform how you view and manage your Google Drive photos. With PicBlend, all your photos are fetched from Google Drive and displayed in a random fashion, offering a fresh and exciting experience every time you open the app.
 
+## Key Features:
 
+Random Photo Display: Enjoy a unique viewing experience with photos displayed randomly from your Google Drive.
+Customizable Folder Settings: Easily block or unblock specific folders to control which photos are displayed.
+Folder-Wise Photo Viewing: Navigate through your photos folder by folder for a more organized viewing experience.
+Dedicated Favorites Section: Mark your favorite photos and access them quickly in the dedicated Favorites section.
+Recent Photos Section: View your most recently seen photos in descending order of their view count, keeping your most accessed memories at your fingertips.
+Experience a dynamic and personalized way to enjoy your Google Drive photos with PicBlend.
 ## Application UI
 
 ### Authentication
