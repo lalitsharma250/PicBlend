@@ -6,10 +6,15 @@ Introducing PicBlend, an innovative Android application designed to transform ho
 ## Key Features:
 
 **Random Photo Display:** Enjoy a unique viewing experience with photos displayed randomly from your Google Drive.
+
 **Customizable Folder Settings:** Easily block or unblock specific folders to control which photos are displayed.
+
 **Folder-Wise Photo Viewing:** Navigate through your photos folder by folder for a more organized viewing experience.
+
 **Dedicated Favorites Section:** Mark your favorite photos and access them quickly in the dedicated Favorites section.
+
 **Recent Photos Section:** View your most recently seen photos in descending order of their view count, keeping your most accessed memories at your fingertips.
+
 Experience a dynamic and personalized way to enjoy your Google Drive photos with PicBlend.
 ## Application UI
 
