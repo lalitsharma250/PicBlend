@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".fragments.FoldersFragment"
+    android:background="@color/black_variant">
+
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/fui_min_height_target"
+
+        android:text="@string/title_handpicked_folders"
+        android:textColor="@color/grey_200"
+        android:padding="10sp"
+        android:textSize="20sp"
+        android:drawablePadding="4sp"
+        android:drawableStart="@drawable/ic_chevron_left"
+        android:background="@color/black_primary"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingTop="6sp"
+        android:layout_marginTop="@dimen/fui_min_height_target" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_app_icon"
+        android:layout_gravity="center"
+        android:visibility="invisible"/>
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Rev"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:textColor="@color/grey_200"
+        android:textSize="24sp"
+        android:visibility="invisible"/>
+
+</FrameLayout>
