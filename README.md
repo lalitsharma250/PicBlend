@@ -1,5 +1,5 @@
 
-# Rev App
+# PicBlend
 
 Introducing PicBlend, an innovative Android application designed to transform how you view and manage your Google Drive photos. With PicBlend, all your photos are fetched from Google Drive and displayed in a random fashion, offering a fresh and exciting experience every time you open the app.
 
